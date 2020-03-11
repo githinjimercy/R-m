@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583935321740.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3417213110",
+    "id" : "DD7D7024",
+    "lastKnownWriteTime" : 1583935380,
+    "last_content_update" : 1583935380726,
+    "path" : "~/R/R-m/R-m-file1.R",
+    "project_path" : "R-m-file1.R",
+    "properties" : {
+        "cursorPosition" : "0,38",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
